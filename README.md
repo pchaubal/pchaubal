@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **prakrutchaubal@gmail.com**
 
-- 📄 Know about my experiences [https://cosmosinquiry.com/resume/pchaubal.pdf](https://cosmosinquiry.com/resume/pchaubal.pdf)
+- 📄 Follow my blog: [https://cosmosinquiry.com](https://cosmosinquiry.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
