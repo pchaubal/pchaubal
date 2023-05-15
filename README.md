@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 👨‍💻 All of my projects are available at [https://cosmosinquiry.com](https://cosmosinquiry.com)
+- 👨‍💻 All of my projects are available at [https://github.com/pchaubal](https://github.com/pchaubal)
 
 - 💬 Ask me about **Deep Learning**
 
