@@ -2,10 +2,10 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Prakrut Chaubal</h1>
-<h3 align="center">A passionate data scientist and a cosmologist.</h3>
+<h3 align="center">A Physicist who likes to use Machine Learning in Research </h3>
 
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Kalman Filters**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pchaubal](https://github.com/pchaubal)
 
