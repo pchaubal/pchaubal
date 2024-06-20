@@ -5,15 +5,14 @@
 <h3 align="center">A Physicist who likes to use Machine Learning in Research </h3>
 
 
-- 🌱 I’m currently learning **Kalman Filters**
+- 🌱 I’m currently learning **Bayesian Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pchaubal](https://github.com/pchaubal)
 
-- 💬 Ask me about **Deep Learning**
+- 💬 Ask me about **Physics, Cosmology in particular**
 
 - 📫 How to reach me **prakrutchaubal@gmail.com**
 
-- 📄 Follow my blog: [https://cosmosinquiry.com](https://cosmosinquiry.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +25,5 @@
 
 ![Prakrut's GitHub stats](https://github-readme-stats.vercel.app/api?username=pchaubal)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=pchaubal&layout=compact)
-![snake gif](https://github.com/pchaubal/pchaubal/blob/output/github-contribution-grid-snake-dark.svg)
+
 
